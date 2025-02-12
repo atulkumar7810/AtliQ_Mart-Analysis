@@ -74,24 +74,24 @@ Contains aggregated order performance metrics at the order level per customer. K
 
 ## Dashboard Overview
 
-<img src="https://github.com/user-attachments/assets/0171cd10-bf76-42e1-8cf0-4babbecae007" alt="Dashboard" width="1000" height="600" />
+<img src="https://github.com/user-attachments/assets/0171cd10-bf76-42e1-8cf0-4babbecae007" alt="Dashboard" width="1000" height="500" />
 
 Our dashboard is organized into three distinct pages, each focusing on a specific aspect of performance. Below is a brief description of each page with space reserved for additional details and images.
 
 ### Page 1: Order Quantity and Fill Rate Analysis
 This page provides a comprehensive overview of the core service metrics, including on-time, in-full, and OTIF percentages. It highlights deviations from targets using visual cues and conditional formatting.
 <!-- Space for additional details or image for Page 1 -->
-<img src="https://github.com/user-attachments/assets/2762ccb3-1a11-40d5-a575-15a8428f7bdb" alt="Order Quantity and Fill Rate Analysis" width="1000" height="600" />
+<img src="https://github.com/user-attachments/assets/2762ccb3-1a11-40d5-a575-15a8428f7bdb" alt="Order Quantity and Fill Rate Analysis" width="1000" height="500" />
 
 ### Page 2: City Performance Analysis
 This page breaks down performance metrics by city, showcasing regional differences in delivery efficiency and fulfillment. It helps identify which cities require targeted improvements.
 <!-- Space for additional details or image for Page 2 -->
-<img src="https://github.com/user-attachments/assets/f4708da2-52bc-499c-8ea7-7e18d47e98c3" alt="City Performance Analysis" width="1000" height="600" />
+<img src="https://github.com/user-attachments/assets/f4708da2-52bc-499c-8ea7-7e18d47e98c3" alt="City Performance Analysis" width="1000" height="500" />
 
 ### Page 3: Cumulative OTIF % and Trend Analysis
 This page offers insights into individual customer performance, presenting a matrix of OT%, IF%, and OTIF% metrics. It helps pinpoint high-risk customers and highlights opportunities for enhanced service.
 <!-- Space for additional details or image for Page 3 -->
-<img src="https://github.com/user-attachments/assets/146d577e-817c-4713-b6fc-070e58482cb7" alt="Cumulative OTIF % and Trend Analysis" width="1000" height="600" />
+<img src="https://github.com/user-attachments/assets/146d577e-817c-4713-b6fc-070e58482cb7" alt="Cumulative OTIF % and Trend Analysis" width="1000" height="500" />
 
 ## Key Insights
 
